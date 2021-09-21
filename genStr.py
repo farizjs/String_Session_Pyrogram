@@ -145,16 +145,16 @@ async def restart(_, msg: Message):
 @bot.on_message(filters.private & filters.command("help"))
 async def restart(_, msg: Message):
     out = f"""
-Hi, {msg.from_user.mention}. Ini Bot pembuat string ngab. \
-Sini gue kasih `STRING_SESSION` Buat UserBot loe.
+Hi, {msg.from_user.mention}. Ini Bot pembuat string. \
+Saya berikan `STRING_SESSION` untuk UserBot anda.
 
-Gue minat `API_ID`, `API_HASH`, Nomer hp buat verifikasi kode. \
-Yang di kirim ke telegram loe.
-Loe dapat kirim **OTP** dengan `1 2 3 4 5` untuk format. __(Kasih jarak 1 spaci!)__
+Saya minat `API_ID`, `API_HASH`, Nomer hp untuk verifikasi kode. \
+Yang di kirim ke telegram anda.
+Anda dapat kirim **OTP** dengan `1 2 3 4 5` untuk format. __(Kasih jarak 1 spasi!)__
 
-**NOTE:** Jika bot tidak mengirim kode OTP ke telegram loe coba klik /restart lalu coba lagi terus /start untuk mulai lagi ngab. 
+**NOTE:** Jika bot tidak mengirim kode OTP ke telegram mu coba klik /restart lalu coba lagi terus /start untuk mulai lagi. 
 
-Lu kalau mau tau Bot Updates join channel cuk !!
+Lu kalau mau tau Bot Updates join channelnya ya !!
 """
     reply_markup = InlineKeyboardMarkup(
         [
