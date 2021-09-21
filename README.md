@@ -1,10 +1,10 @@
-# TG-String-Session
-Hasilkan Sesi String Pyrogram Menggunakan bot ini.
+# String_Session_Pyrogram
+Hasilkan String Session Pyrogram Menggunakan bot ini.
 
-<a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/Telegram-Owner-blue.svg?logo=telegram"></a>
+<a href="https://t.me/FJ_GAMING"><img src="https://img.shields.io/badge/Telegram-Owner-blue.svg?logo=telegram"></a>
 
 ## Demo Bot:
-<a href="https://t.me/Stringdurhakabot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Get_String_Pyrogrambot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -19,10 +19,10 @@ Hasilkan Sesi String Pyrogram Menggunakan bot ini.
   - Telegram Bot Token dari [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kenkannih/Strings)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming213/String_Session_Pyrogram)
 
 ## Support Group:
-<a href="https://t.me/gcsupportbots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
 - [Krishna Singhal](https://github.com/Krishna-Singhal)
@@ -30,14 +30,5 @@ Hasilkan Sesi String Pyrogram Menggunakan bot ini.
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/fj_gaming212"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
