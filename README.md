@@ -1,4 +1,4 @@
-# String_Session_Pyrogram
+# String_Session
 Hasilkan String Session Pyrogram Menggunakan bot ini.
 
 <a href="https://t.me/FJ_GAMING"><img src="https://img.shields.io/badge/Telegram-Owner-blue.svg?logo=telegram"></a>
