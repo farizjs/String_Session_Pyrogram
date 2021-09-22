@@ -19,7 +19,7 @@ Hasilkan String Session Pyrogram Menggunakan bot ini.
   - Telegram Bot Token dari [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming213/String_Session_Pyrogram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming212/String_Session_Pyrogram)
 
 ## Support Group:
 <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
