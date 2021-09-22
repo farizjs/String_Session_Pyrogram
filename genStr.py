@@ -124,7 +124,7 @@ async def genStr(_, msg: Message):
         return
     try:
         session_string = await client.export_session_string()
-        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@stringdurhakabot](tg://openmessage?user_id=1884857088) \nOwner bot @kenkanasw")
+        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@Get_String_Pyrogrambot] \nOwner bot @FJ_GAMING")
         await client.disconnect()
         text = "String sukses di buat.\nKlik button."
         reply_markup = InlineKeyboardMarkup(
@@ -138,7 +138,7 @@ async def genStr(_, msg: Message):
 
 @bot.on_message(filters.private & filters.command("restart"))
 async def restart(_, msg: Message):
-    await msg.reply("Mulai ulang ngab!")
+    await msg.reply("Mulai ulang!")
     HU_APP.restart()
 
 
@@ -154,7 +154,7 @@ Anda dapat kirim **OTP** dengan `1 2 3 4 5` untuk format. __(Kasih jarak 1 spasi
 
 **NOTE:** Jika bot tidak mengirim kode OTP ke telegram mu coba klik /restart lalu coba lagi terus /start untuk mulai lagi. 
 
-Lu kalau mau tau Bot Updates join channelnya ya !!
+Anda kalau mau tau Bot Updates join channelnya ya !!
 """
     reply_markup = InlineKeyboardMarkup(
         [
@@ -164,7 +164,7 @@ Lu kalau mau tau Bot Updates join channelnya ya !!
             ],
             [
                 InlineKeyboardButton('Bots Updates Group', url='https://t.me/KingUserbotSupport'),
-                InlineKeyboardButton('Github', url='https://github.com/kenkannih/String_Session_Pyrogram')
+                InlineKeyboardButton('Github', url='https://github.com/fjgaming212/String_Session_Pyrogram')
             ],
         ]
     )
